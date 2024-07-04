@@ -1,0 +1,28 @@
+*. {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+.cabeçalho {
+    background-color: #300301;
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+ ;
+    padding: 30px 0;
+}
+
+.cabeçalho-título {
+    color: #C72A2C;
+    font-size: 54px;
+}
+
+.cabeçalho-lista {
+    color: white;
+    font-size: 22px;
+}
+
+.cabeçalho-logotipo {
+    width: 120px;
+}
