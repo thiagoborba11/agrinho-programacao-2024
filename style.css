@@ -34,11 +34,9 @@ body {
 .Nossos-produtos {
     background-color: green;
     color: green;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 24px 0;
     font-size: 46px;
+    text-align: center;
 
 
 }
