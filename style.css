@@ -25,7 +25,7 @@ body {
 
 .cabeçalho-logotipo {
     width: 180px;
-    img{border-radius: 10px;}
+    img{border: radius 10px;}
 }
 
 .Nossos-produtos {
