@@ -45,6 +45,11 @@ body {
     img{border-radius: 10px;}
 }
 
+.mel-imagem{
+    height: 200px;
+    width: 200px;
+    img{border-radius: 10px;}
+}
 .nossa-escola-título {
     font-size: 32px;
     padding: 24px;
