@@ -6,10 +6,6 @@ body {
 
 .cabeçalho {
     background-color: greenyellow;
-    display: flex;
-    justify-content: space-around;
-    align-items: center
- ;
     padding: 30px 0;
 }
 
