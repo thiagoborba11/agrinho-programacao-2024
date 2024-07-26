@@ -44,6 +44,7 @@ body {
 .imagem-queijo {
     height: 200px;
     width: 200px;
+    border-radius: 20px;
 }
 
 .nossa-escola-título {
