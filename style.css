@@ -18,13 +18,13 @@
     font-size: 75px;
 }
 
-.cabeçalho-lista {
+.cabeçalho-lista-item1 {
     color: black;
     font-size: 22px;
 }
 
 .cabeçalho-logotipo {
-    width: 100px;
+    width: 180px;
 }
 .cabeçalho-lista-item1 {
     display: inline-block;
