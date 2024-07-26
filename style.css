@@ -26,18 +26,9 @@
 .cabeçalho-logotipo {
     width: 180px;
 }
-.cabeçalho-lista-item1 {
-    display: inline-block;
-    margin: 0 16px;
-}
 
-.cabeçalho-lista-item2 {
-    display: inline-block;
-    margin: 0 16px;
-}
-
-.nossa-escola {
-    background-image: linear-gradient(#300301, #960903);
+.Nossos-produtos {
+    background-color: green;
     color: white;
     display: flex;
     justify-content: center;
