@@ -33,7 +33,7 @@ body {
 
 .Nossos-produtos {
     background-color: green;
-    color: green;
+    color: black;
     padding: 24px 0;
     font-size: 46px;
     text-align: center;
@@ -44,7 +44,7 @@ body {
 .imagem-queijo {
     height: 200px;
     width: 200px;
- img{border-radius: 10px;}
+    img{border-radius: 10px;}
 }
 
 .nossa-escola-título {
