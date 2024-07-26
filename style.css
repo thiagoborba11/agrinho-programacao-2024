@@ -41,6 +41,11 @@ body {
 
 }
 
+.imagem-queijo {
+    height: 200px;
+    width: 200px;
+}
+
 .nossa-escola-título {
     font-size: 32px;
     padding: 24px;
