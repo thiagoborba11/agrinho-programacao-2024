@@ -42,8 +42,8 @@ body {
 }
 
 .mel-imagem{
-    height: 20%;
-    width: 20%;
+    height: 30px;
+    width: 30px;
     img{border-radius: 10px;}
 }
 .nossa-escola-título {
