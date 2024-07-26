@@ -99,7 +99,6 @@ body {
 }
 
 .rodapé{
-    color: hsl(2, 96%, 30%);
     font-size: 20px;
     display: flex;
     justify-content: space-around;
@@ -109,6 +108,10 @@ body {
     width: 200px;
 }
 
+.logo-estado {
+    height: 300px;
+    width: 300px;
+}
 .rodapé-imagem{
     width: 70px;
 }
