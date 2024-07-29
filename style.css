@@ -44,7 +44,7 @@ body {
     border-radius: 10px;
 }
 
-.produto-1{
+.produtos{
     display: flex;
     position: relative;
     border: 2px solid green;
