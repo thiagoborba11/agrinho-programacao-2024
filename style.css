@@ -40,7 +40,7 @@ body {
 .imagem-queijo{
     height: 300px;
     width: 300px;
-    img{border-radius: 10px;}
+    border-radius: 10px;
 }
 
 .imagem-mel{
