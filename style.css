@@ -74,7 +74,7 @@ body {
     height: 240px;
     width: 300px;
     border-radius: 10px;
-    margin-right: 500px;
+
 }
 .rodapé{
     font-size: 20px;
@@ -112,4 +112,8 @@ body {
     display: flex;
     position: relative;
     border: 2px solid green;
+}
+
+.espaço-2{
+    margin-left: 500px;
 }
