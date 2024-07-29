@@ -48,18 +48,7 @@ body {
     text-align: center;
 }
 
-.fileira-1{
-    display: flex;
-    position: relative;
-}
-
 .produto-1{
-    display: flex;
-    position: relative;
-    border: 2px solid green;
-}
-
-.produto-2{
     display: flex;
     position: relative;
     border: 2px solid green;
