@@ -42,6 +42,7 @@ body {
     height: 300px;
     width: 300px;
     border-radius: 10px;
+    margin-top: 15px;
 }
 
 .queijo{
@@ -62,6 +63,7 @@ body {
     height: 300px;
     width: 300px;
     border-radius: 10px;
+    margin-top: 15px;
 }
 
 .imagem-pinhao{
@@ -69,6 +71,7 @@ body {
     width: 300px;
     border-radius: 10px;
     margin-top: 20px;
+    margin-left: 5px;
 }
 
 .imagem-abobora{
