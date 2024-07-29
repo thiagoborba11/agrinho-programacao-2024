@@ -68,13 +68,14 @@ body {
     height: 300px;
     width: 300px;
     border-radius: 10px;
+    margin-top: 20px;
 }
 
 .imagem-abobora{
     height: 240px;
     width: 300px;
     border-radius: 10px;
-
+    margin-top: 20px;
 }
 .rodapé{
     font-size: 20px;
