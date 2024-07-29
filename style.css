@@ -117,3 +117,8 @@ body {
 .espaço-2{
     margin-left: 700px;
 }
+
+.descricao{
+    text-align: center;
+    font-family: "Anton";
+}
