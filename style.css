@@ -46,9 +46,14 @@ body {
 .imagem-mel{
     height: 300px;
     width: 300px;
-    img{border-radius: 10px;}
+    border-radius: 10px;
 }
 
+.imagem-pinhao{
+    height: 400px;
+    width: 400px;
+    border-radius: 10px;
+}
 .rodapé{
     font-size: 20px;
     display: flex;
