@@ -106,3 +106,9 @@ body {
 .rodape-frase{
     font-weight: 1000;
 }
+
+.pinhao-abobora{
+    display: flex;
+    position: relative;
+    border: 2px solid green;
+}
