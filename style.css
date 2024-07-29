@@ -44,7 +44,11 @@ body {
     border-radius: 10px;
 }
 
-
+.produto-1{
+    display: flex;
+    position: relative;
+    border: 2px solid green;
+}
 
 .imagem-mel{
     height: 300px;
