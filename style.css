@@ -87,3 +87,7 @@ body {
 .rodapé-ícone{
     width: 30px;
 }
+
+.rodapé-frase{
+    font-weight: 700;
+}
