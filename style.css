@@ -44,6 +44,10 @@ body {
     border-radius: 10px;
 }
 
+.queijo{
+    text-align: left;
+}
+
 .produto-1{
     display: flex;
     position: relative;
