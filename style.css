@@ -48,6 +48,11 @@ body {
     text-align: center;
 }
 
+.fileira-1{
+    display: flex;
+    position: relative;
+}
+
 .produto-1{
     display: flex;
     position: relative;
@@ -55,18 +60,6 @@ body {
 }
 
 .produto-2{
-    display: flex;
-    position: relative;
-    border: 2px solid green;
-}
-
-.produto-3{
-    display: flex;
-    position: relative;
-    border: 2px solid green;
-}
-
-.produto-4{
     display: flex;
     position: relative;
     border: 2px solid green;
