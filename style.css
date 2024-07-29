@@ -6,7 +6,7 @@ body {
 
 .cabeçalho {
     background-color: greenyellow;
-    margin-bottom: 30px 0;
+    margin-bottom: 15px 0;
     display: flex;
     justify-content: space-around;
     align-items: center;
