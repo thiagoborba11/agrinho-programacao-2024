@@ -152,3 +152,14 @@ body {
     font-size: 30px;
     font-family: "Anton"
 }
+
+.milho-tomate{
+    display: flex;
+    position: relative;
+    border: 2px solid green;
+    margin-top: 10px;
+}
+
+.espaço-3{
+    margin-left: 700px;
+}
