@@ -183,6 +183,7 @@ body {
     height: auto;
     width: auto;
     background-color: #C0EEFF;
+    border: 2px solid green;
 }
 
 .logo-estado {
