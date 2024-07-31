@@ -20,7 +20,7 @@ body {
 
 .cab-text-border {
     -webkit-text-stroke-color: rgb(214, 245, 185);
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 4px;
 }
 
 .cabeçalho-lista-item1 {
