@@ -5,7 +5,7 @@ body {
 }
 
 .cabeçalho {
-    background-color: greenyellow;
+    background-color: rgb(3, 71, 3);
     margin-bottom: 15px 0;
     display: flex;
     justify-content: space-around;
@@ -14,12 +14,12 @@ body {
 }
 
 .cabeçalho-título {
-    color: black;
+    color: white;
     font-size: 100px;
 }
 
 .cab-text-border {
-    -webkit-text-stroke-color: rgb(255, 255, 255);
+    -webkit-text-stroke-color: black;
     -webkit-text-stroke-width: 4px;
 }
 
