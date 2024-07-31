@@ -19,7 +19,7 @@ body {
 }
 
 .cab-text-border {
-    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-color: rgb(85, 107, 64);
     -webkit-text-stroke-width: 2px;
 }
 
