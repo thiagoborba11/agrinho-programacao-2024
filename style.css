@@ -14,12 +14,12 @@ body {
 }
 
 .cabeçalho-título {
-    color: white;
+    color: black;
     font-size: 100px;
 }
 
 .cab-text-border {
-    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-color: white;
     -webkit-text-stroke-width: 4px;
 }
 
