@@ -108,13 +108,12 @@ body {
     margin-top: 35px;
     margin-left: 20px;
 }
-
-order-radius: 10px;
+.imagem-tomate{
+border-radius: 10px;
 margin-top: 35px;
-}.imagem-tomate{
 height: 240px;
  width: 300px;
-    b
+}
 
 .desc-milho{
     text-align: center;
