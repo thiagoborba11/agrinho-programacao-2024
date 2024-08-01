@@ -52,13 +52,13 @@ body {
     text-align: center;
 }
 
-.produtos-1{
+.secao1{
     display: flex;
     position: relative;
     border: 2px solid green;
 }
 
-.espaço{
+.sec1it2{
     margin-left: 200px;
 }
 
