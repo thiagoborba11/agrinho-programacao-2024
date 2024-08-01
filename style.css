@@ -178,6 +178,47 @@ height: 240px;
     margin-left: 700px;
 }
 
+.imagem-laranja{
+    height: 240px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.imagem-mandioca{
+    height: 190px;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 35px;
+}
+
+.desc-mandioca{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Anton"
+}
+
+.desc-laranja{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Anton"
+}
+
+.laranja-mandioca{
+    display: flex;
+    position: relative;
+    border: 2px solid green;
+    margin-top: 10px;
+}
+
+
+
+.espaço-5{
+    margin-left: 700px;
+}
+
+
 .rodapé{
     font-size: 20px;
     display: flex;
