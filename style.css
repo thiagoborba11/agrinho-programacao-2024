@@ -218,6 +218,46 @@ height: 240px;
     margin-left: 700px;
 }
 
+.imagem-jilo{
+    height: 240px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.imagem-leite{
+    height: 190px;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 35px;
+}
+
+.desc-jilo{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Anton"
+}
+
+.desc-leite{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Anton"
+}
+
+.jilo-leite{
+    display: flex;
+    position: relative;
+    border: 2px solid green;
+    margin-top: 10px;
+}
+
+
+
+.espaço-6{
+    margin-left: 700px;
+}
+
 
 .rodapé{
     font-size: 20px;
