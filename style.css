@@ -33,15 +33,17 @@ body {
 }
 
 
-
+.produtos {
+    height 200px;
+}
 
 .nossos-produtos-titulo {
 font-size: 64px;
-line-height: 64px;
 -webkit-text-stroke-color: rgb(255, 255, 255);
 -webkit-text-stroke-width: 2px;
 color: black;
 font-family: "Irish grover";
+
 text-align: center;
 display: inline-block;
 margin: 0;
