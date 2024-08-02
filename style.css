@@ -64,11 +64,10 @@ margin-top: 20px;
     border: 2px solid green;
     margin-top: 65px;
     margin-right: 20px;
+    padding: 20px;
 }
 
 .link-ofertas {
-    margin: 10px;
-
     color: red;
 }
 
