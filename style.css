@@ -37,8 +37,11 @@ body {
 
 
 
-.Nossos-produtos-titulo {
-
+.produtos {
+font-size: 64px;
+-webkit-text-stroke-color: rgb(255, 255, 255);
+-webkit-text-stroke-width: 2px;
+color: black;
 }
 
 .Nossos-produtos-div {
