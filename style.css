@@ -43,6 +43,12 @@ font-size: 64px;
 -webkit-text-stroke-width: 2px;
 color: black;
 font-family: "Irish grover";
+text-align: start;
+display: inline-block;
+}
+
+.ofertas {
+
 }
 
 .Nossos-produtos-div {
