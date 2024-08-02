@@ -42,12 +42,11 @@ line-height: 64px;
 -webkit-text-stroke-width: 2px;
 color: black;
 font-family: "Irish grover";
-text-align: start;
+text-align: center;
 display: inline-block;
 margin: 0;
 margin-top: 20px;
 margin-left: 30px;
-width: 75%;
 }
 
 .ofertas {
