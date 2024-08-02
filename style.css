@@ -32,6 +32,13 @@ body {
     img{border: radius 10px;}
 }
 
+
+
+
+
+
+
+
 .Nossos-produtos-div {
     background-color: rgb(200, 246, 200);
     color: black;
@@ -41,18 +48,7 @@ body {
     font-family: "Anton";
 }
 
-.imagem-queijo{
-    height: 300px;
-    width: 300px;
-    border-radius: 10px;
-    margin-top: 15px;
-}
-
-.queijo{
-    text-align: center;
-}
-
-.secao1{
+.secao{
     display: flex;
     position: relative;
     border: 2px solid green;
@@ -93,6 +89,17 @@ body {
     position: relative;
     border: 2px solid green;
     margin-top: 10px;
+}
+
+.imagem-queijo{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.queijo{
+    text-align: center;
 }
 
 .secao2{
@@ -261,6 +268,10 @@ height: 240px;
 .espaço-6{
     margin-left: 700px;
 }
+
+
+
+
 
 
 .rodapé{
