@@ -38,7 +38,7 @@ body {
 
 
 .Nossos-produtos-titulo {
-    
+
 }
 
 .Nossos-produtos-div {
@@ -123,10 +123,10 @@ body {
     margin-left: 20px;
 }
 .imagem-tomate{
-border-radius: 10px;
-margin-top: 35px;
-height: 240px;
- width: 300px;
+    height: 240px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 35px;
 }
 
 .desc-milho{
