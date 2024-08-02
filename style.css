@@ -45,13 +45,16 @@ color: black;
 font-family: "Irish grover";
 text-align: start;
 display: inline-block;
+margin: 0;
 margin-left: 30px;
 }
 
 .ofertas {
 display: inline-block;
 text-align:end;
+margin: 0;
 margin-right: 30px;
+
 }
 
 .Nossos-produtos-div {
