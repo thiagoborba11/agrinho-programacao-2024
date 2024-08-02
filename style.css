@@ -52,6 +52,7 @@ body {
     display: flex;
     position: relative;
     border: 2px solid green;
+    margin-top: 5px;
 }
 
 .it2{
