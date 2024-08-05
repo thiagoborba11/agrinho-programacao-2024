@@ -8,6 +8,9 @@ body {
     justify-content: space-around;
     align-items: center;
     border: 2px solid green;
+    background-image: url(wp9212011.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .cabeçalho-título {
@@ -16,13 +19,6 @@ body {
     font-family: "Irish grover";
 }
 
-.fundo-cabecalho {
-    background-image: url(wp9212011.jpg);
-    background-size: cover;
-    background-position: center;
-    padding: 0;
-    margin: 0;
-}
 
 .cab-text-border {
     -webkit-text-stroke-color: rgb(255, 255, 255);
