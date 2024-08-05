@@ -11,13 +11,15 @@ body {
 }
 
 .cabeçalho-título {
-    background-image: url(wp9212011.jpg);
-    background-size: cover;
-    background-position: center;
-    
     color: black;
     font-size: 100px;
     font-family: "Irish grover";
+}
+
+.fundo-cabecalho {
+    background-image: url(wp9212011.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .cab-text-border {
