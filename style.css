@@ -36,7 +36,6 @@ body {
 .produtos {
     height: 180px;
     display: flex;
-    background-image: url(laranja.png);
 }
 
 .nossos-produtos-titulo {
