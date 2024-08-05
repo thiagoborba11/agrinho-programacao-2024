@@ -37,8 +37,12 @@ body {
     padding: 20px;
     border-radius: 5px;
     opacity: 0.8;
+    background-color: rgb(200, 246, 200);
 }
 
+.quemsomos {
+    color: lightskyblue;
+}
 .cabeçalho-logotipo {
     width: 180px;
     img{border: radius 10px;}
