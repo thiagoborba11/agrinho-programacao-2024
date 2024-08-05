@@ -17,11 +17,11 @@ body {
     color: black;
     font-size: 100px;
     font-family: "Irish grover";
-    background-color: rgb(200, 246, 200);
+    background-color: rgba(200, 246, 200, 0.8);
     border: 2px solid rgb(20, 55, 20);
     padding: 20px;
     border-radius: 5px;
-    opacity: 0.8;
+    
 }
 
 
@@ -36,16 +36,18 @@ body {
     border: 2px solid rgb(20, 55, 20);
     padding: 20px;
     border-radius: 5px;
-    opacity: 0.8;
-    background-color: rgb(200, 246, 200);
+    background-color: rgba(200, 246, 200, 0.8);
 }
 
 .quemsomos {
     color: lightskyblue;
+    font-weight: bold;
 }
 .cabeçalho-logotipo {
     width: 180px;
-    img{border: radius 10px;}
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgba(200, 246, 200, 0.8);
 }
 
 
