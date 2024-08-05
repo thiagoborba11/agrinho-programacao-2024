@@ -3,9 +3,6 @@ body {
 }
 
 .cabeçalho {
-    background-image: url(wp9212753.jpg);
-    background-size: cover;
-    background-position: center;
     margin-bottom: 0px;
     display: flex;
     justify-content: space-around;
@@ -14,6 +11,10 @@ body {
 }
 
 .cabeçalho-título {
+    background-image: url(wp9212011.jpg);
+    background-size: cover;
+    background-position: center;
+    
     color: black;
     font-size: 100px;
     font-family: "Irish grover";
