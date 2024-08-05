@@ -20,6 +20,8 @@ body {
     background-image: url(wp9212011.jpg);
     background-size: cover;
     background-position: center;
+    padding: 0;
+    border: 0;
 }
 
 .cab-text-border {
