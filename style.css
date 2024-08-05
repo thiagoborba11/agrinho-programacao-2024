@@ -362,6 +362,11 @@ margin-top: 20px;
     text-align: center;
 }
 
-.desenvolvedor{
+
+.contato{
+    display: block;
+}
+
+/*.desenvolvedor{
     display: block;
 }
