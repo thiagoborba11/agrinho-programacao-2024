@@ -337,6 +337,7 @@ margin-top: 20px;
     height: auto;
     width: auto;
     background-image: url(homem_carpinando.png) ;
+    background-size: cover;
     border: 2px solid green;
 }
 
