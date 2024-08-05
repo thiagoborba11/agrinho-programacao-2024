@@ -17,6 +17,8 @@ body {
     color: black;
     font-size: 100px;
     font-family: "Irish grover";
+    background-color: rgb(200, 246, 200);
+    border: 2px solid green;
 }
 
 
