@@ -361,8 +361,6 @@ margin-top: 20px;
     margin-left: 15px;
     text-align: center;
 }
-.contato_titulo{
-    font-size: 15px;
-    text-align:center;
-    font-family: "Artifika";
+.contato{
+    display: block;
 }
