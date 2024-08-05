@@ -3,7 +3,7 @@ body {
 }
 
 .cabeçalho {
-    background-color: rgb(96, 192, 96);
+    background-image: url(fundo-cabecalho.png);
     margin-bottom: 0px;
     display: flex;
     justify-content: space-around;
