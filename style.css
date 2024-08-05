@@ -33,6 +33,10 @@ body {
 .cabeçalho-lista-item1 {
     color: black;
     font-size: 22px;
+    border: 2px solid rgb(20, 55, 20);
+    padding: 20px;
+    border-radius: 5px;
+    opacity: 0.8;
 }
 
 .cabeçalho-logotipo {
