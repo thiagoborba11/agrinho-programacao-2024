@@ -11,7 +11,6 @@ body {
     background-image: url(wp9212011.jpg);
     background-size: cover;
     background-position: 50% 75%;
-    margin: 5px;
 }
 
 .cabeçalho-título {
@@ -43,11 +42,13 @@ body {
 .quemsomos {
     color: darkslateblue;
     font-weight: bold;
+    margin-right: 5px;
     
 }
 .cabeçalho-logotipo {
+    margin-left: 5px;
     width: 180px;
-    padding: 20px;
+    padding: 10px;
     border-radius: 5px;
     background-color: rgba(200, 246, 200, 0.8);
     border: 2px solid rgb(20, 55, 20);
