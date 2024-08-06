@@ -47,6 +47,7 @@ body {
 }
 .cabeçalho-logotipo {
     margin-left: 5px;
+    margin-right: 5px;
     width: 180px;
     padding: 10px;
     border-radius: 5px;
