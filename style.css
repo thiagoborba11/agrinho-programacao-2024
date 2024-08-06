@@ -85,14 +85,11 @@ margin-top: 20px;
 }
 
 .ofertas {
-    justify-content: right;
-    align-items: center;
-    line-height: 64px;
+    line-height: 180px;
     margin: 0;
     flex: 1;
     border: 2px solid green;
     margin-top: 65px;
-    margin-right: 20px;
     padding: 8px;
     
 }
