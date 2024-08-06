@@ -20,6 +20,7 @@ body {
     background-color: rgba(200, 246, 200, 0.8);
     border: 2px solid rgb(20, 55, 20);
     padding: 20px;
+    padding-top: 10px;
     border-radius: 5px;
     
 }
