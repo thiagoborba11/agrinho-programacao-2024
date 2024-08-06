@@ -65,6 +65,7 @@ body {
     margin-right: 5px;
     justify-content: start;
     align-items: center;
+    flex:1;
 }
 
 .nossos-produtos-titulo {
@@ -78,7 +79,7 @@ font-family: "Irish grover";
 justify-content: center;
 align-items: center;
 
-flex: 2.5;
+flex: 2;
 margin: 0;
 margin-left: 419px;
 margin-top: 20px;
@@ -87,7 +88,6 @@ margin-top: 20px;
 .ofertas {
     justify-content: right;
     align-items: center;
-    line-height: 180px;
     margin: 0;
     flex: 1;
     border: 2px solid green;
