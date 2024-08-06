@@ -49,22 +49,35 @@ body {
 }
 
 .link-quemsomos {
-    color:lightskyblue;
+    color:darkslateblue;
 }
 .quemsomos-texto {
-    padding: 15px;
     margin: 0;
-    margin-top: 60px;
-    margin-left: 20px;
-    color: darkslateblue;
-    font-weight: bold;
     border: 2px solid rgb(20, 55, 20);
+    margin-top: 65px;
+    padding: 15px;
+    margin-left: 20px;
     align-items: center;
-    border-radius: 5px;
     text-align: center;
+    border-radius: 5px;
 
 
-    
+}
+
+
+.ofertas-texto {
+    margin: 0;
+    border: 2px solid rgb(20, 55, 20);
+    margin-top: 65px;
+    padding: 15px;
+    margin-right: 20px;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.link-ofertas {
+    color: red;
 }
 
 .nossos-produtos-titulo {
@@ -82,20 +95,6 @@ margin: 0;
 margin-top: 20px;
 }
 
-.ofertas-texto {
-    margin: 0;
-    border: 2px solid rgb(20, 55, 20);
-    margin-top: 65px;
-    padding: 15px;
-    margin-right: 20px;
-    align-items: center;
-    text-align: center;
-    border-radius: 5px;
-}
-
-.link-ofertas {
-    color: red;
-}
 
 
 
