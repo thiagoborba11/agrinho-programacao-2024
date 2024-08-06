@@ -49,14 +49,18 @@ body {
 }
 
 .quemsomos {
-    padding: 0;
+    padding: 15px;
     margin: 0;
-    margin-top: 40px;
+    margin-top: 65px;
+    margin-left: 20px;
     color: darkslateblue;
     font-weight: bold;
     border: 2px solid rgb(20, 55, 20);
     align-items: center;
     border-radius: 5px;
+    text-align: center;
+  
+    
 }
 
 .nossos-produtos-titulo {
