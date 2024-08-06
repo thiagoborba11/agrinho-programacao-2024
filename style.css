@@ -61,9 +61,10 @@ body {
 .quemsomos {
     padding: 0;
     margin: 0;
+
     color: darkslateblue;
     font-weight: bold;
-    margin-right: 5px;
+
     align-items: center;
 }
 
@@ -78,7 +79,6 @@ font-family: "Irish grover";
 align-items: center;
 
 margin: 0;
-margin-left: 419px;
 margin-top: 20px;
 }
 
