@@ -31,16 +31,6 @@ body {
     -webkit-text-stroke-width: 2px;
 }
 
-.cabeçalho-lista-item1 {
-    color: black;
-    font-size: 22px;
-    border: 2px solid rgb(20, 55, 20);
-    padding: 20px;
-    border-radius: 5px;
-    background-color: rgba(220, 242, 220, 0.8);
-}
-
-
 .cabeçalho-logotipo {
     margin-left: 5px;
     margin-right: 5px;
@@ -64,8 +54,9 @@ body {
     margin-top: 40px;
     color: darkslateblue;
     font-weight: bold;
-
+    border: 2px solid rgb(20, 55, 20);
     align-items: center;
+    border-radius: 5px;
 }
 
 .nossos-produtos-titulo {
@@ -84,13 +75,13 @@ margin-top: 20px;
 
 .ofertas {
     margin: 0;
-    border: 2px solid green;
+    border: 2px solid rgb(20, 55, 20);
     margin-top: 65px;
     padding: 15px;
     margin-right: 20px;
     align-items: center;
     text-align: center;
-    
+    border-radius: 5px;
 }
 
 .link-ofertas {
