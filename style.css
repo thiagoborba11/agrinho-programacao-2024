@@ -63,7 +63,8 @@ body {
     color: darkslateblue;
     font-weight: bold;
     margin-right: 5px;
-    
+    justify-content: start;
+    align-items: center;
 }
 
 .nossos-produtos-titulo {
