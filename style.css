@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(200, 246, 200);
+    background-color: rgb(220, 242, 220);
 }
 
 .cabeçalho {
@@ -11,6 +11,7 @@ body {
     background-image: url(wp9212011.jpg);
     background-size: cover;
     background-position: 50% 75%;
+    margin: 5px;
 }
 
 .cabeçalho-título {
@@ -36,7 +37,7 @@ body {
     border: 2px solid rgb(20, 55, 20);
     padding: 20px;
     border-radius: 5px;
-    background-color: rgba(200, 246, 200, 0.8);
+    background-color: rgba(220, 242, 220, 0.8);
 }
 
 .quemsomos {
