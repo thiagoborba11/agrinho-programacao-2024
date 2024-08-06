@@ -48,7 +48,7 @@ body {
     justify-content: space-between;
 }
 
-.quemsomos {
+.link-quemsomos {
     color:lightskyblue;
 }
 .quemsomos-texto {
@@ -82,7 +82,7 @@ margin: 0;
 margin-top: 20px;
 }
 
-.ofertas {
+.ofertas-texto {
     margin: 0;
     border: 2px solid rgb(20, 55, 20);
     margin-top: 65px;
