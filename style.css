@@ -48,7 +48,7 @@ body {
     justify-content: space-between;
 }
 
-.quemsomos {
+.cabeçalho-lista-item1 {
     padding: 15px;
     margin: 0;
     margin-top: 65px;
@@ -59,8 +59,7 @@ body {
     align-items: center;
     border-radius: 5px;
     text-align: center;
-  
-    
+
 }
 
 .nossos-produtos-titulo {
