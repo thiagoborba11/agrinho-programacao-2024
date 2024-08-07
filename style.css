@@ -422,7 +422,7 @@ margin-top: 20px;
     }
 
     .imagem-mel, .imagem-pinhao, .imagem-abobora, .imagem-queijo, .imagem-milho, .imagem-tomate, .imagem-ovo, .imagem-melancia, .imagem-laranja, .imagem-mandioca, .imagem-jilo, .imagem-leite {
-        width: 50%;
+        width: 100%;
         height: auto;
         margin-top: 10px;
         margin: 0 auto;
