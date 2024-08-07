@@ -359,6 +359,9 @@ margin-top: 20px;
     margin-left: 30px;
     height: 180px;
     width: 230px;
+    background-color: rgba(200, 246, 200, 0.8);
+    border: 2px solid rgb(20, 55, 20);
+    padding: 20px;
 }
 
 .logo-instagram {
