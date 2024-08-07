@@ -84,6 +84,7 @@ body {
 }
 
 .wpp-imagem{
+    display: block;
     width: 80px;
     height: auto;
     margin-top: 90px;
