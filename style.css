@@ -404,6 +404,10 @@ margin-top: 20px;
     -webkit-text-stroke-width: 1px;
   }
 
+  .desenvolvedor{
+    margin-left: 150px;
+  }
+  
 /*
 @media only screen and (max-width: 480px) {
     .cabeçalho {
