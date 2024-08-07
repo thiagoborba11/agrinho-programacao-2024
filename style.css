@@ -77,6 +77,18 @@ body {
     color: red;
 }
 
+.grupo-ofertas{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.wpp-imagem{
+    width: 80px;
+    height: auto;
+    margin: 0 auto;
+}
+
 .nossos-produtos-titulo {
 font-size: 64px;
 line-height: 150px;
@@ -395,16 +407,7 @@ margin-top: 20px;
     display: block;
 }
 
-.grupo-ofertas{
-    background-color: transparent;
-    border: none;
-    cursor: pointer;
-}
 
-.wpp-imagem{
-    width: 80px;
-    height: auto;
-}
 
 
 
