@@ -455,6 +455,7 @@ margin-top: 20px;
 
     .rodape-frase {
         font-size: 20px;
+        -webkit-text-stroke-width: 1px;
         margin: 10px;
     }
 
