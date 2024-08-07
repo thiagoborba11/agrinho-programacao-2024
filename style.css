@@ -111,7 +111,7 @@ margin-top: 20px;
 
 .secao{
     display: flex;
-    position: relative;
+    justify-content: space-between;
     border: 2px solid green;
     margin-top: 10px;
 }
@@ -380,3 +380,87 @@ margin-top: 20px;
     display: block;
 }
 
+
+
+
+@media only screen and (max-width: 480px) {
+    .cabeçalho {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .cabeçalho-título {
+        font-size: 45px;
+        padding: 10px;
+    }
+
+    .cabeçalho-logotipo {
+        width: 120px;
+        padding: 5px;
+    }
+
+    .produtos {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .quemsomos-texto, .ofertas-texto {
+        margin: 20px;
+        padding: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .nossos-produtos-titulo {
+        font-size: 40px;
+        line-height: 80px;
+      margin: 0 auto;
+    }
+
+    .Nossos-produtos-div, .descricao .desc-milho, .desc, .desc-ovo, .desc-melancia, .desc-mandioca, .desc-laranja, .desc-jilo, .desc-leite {
+        font-size: 20px;
+        padding: 5px;
+    }
+
+    .imagem-mel, .imagem-pinhao, .imagem-abobora, .imagem-queijo, .imagem-milho, .imagem-tomate, .imagem-ovo, .imagem-melancia, .imagem-laranja, .imagem-mandioca, .imagem-jilo, .imagem-leite {
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+        margin: 0 auto;
+    }
+
+    .secao, .pinhao-abobora, .milho-tomate, .ovo-melancia, .laranja-mandioca, .jilo-leite {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .rodapé {
+        flex-direction: column;
+        padding: 20px 0;
+    }
+
+    .logo-estado {
+        width: 150px;
+        height: auto;
+    }
+  
+  .logo-reserva{
+    width: 150px;
+    height: auto;
+  }
+
+    .logo-instagram {
+        width: 50px;
+        height: auto;
+    }
+
+    .rodape-frase {
+        font-size: 20px;
+        margin: 10px;
+    }
+
+    .contato {
+        text-align: center;
+    }
+}
