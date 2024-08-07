@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(200, 246, 200);
+    background-color: rgb(229, 246, 229);
 }
 
 .cabeçalho {
@@ -17,7 +17,7 @@ body {
     color: black;
     font-size: 100px;
     font-family: "Irish grover";
-    background-color: rgba(200, 246, 200, 0.8);
+    background-color: rgba(229, 246, 229, 0.8);
     border: 2px solid rgb(20, 55, 20);
     padding: 20px;
     padding-top: 10px;
@@ -36,7 +36,7 @@ body {
     width: 180px;
     padding: 10px;
     border-radius: 5px;
-    background-color: rgba(200, 246, 200, 0.8);
+    background-color: rgba(229, 246, 229, 0.8);
     border: 2px solid rgb(20, 55, 20);
 }
 
@@ -101,7 +101,7 @@ margin-top: 20px;
 
 
 .Nossos-produtos-div {
-    background-color: rgb(200, 246, 200);
+    background-color: rgb(229, 246, 229);
     color: black;
     padding: 10px;
     font-size: 30px;
@@ -359,14 +359,14 @@ margin-top: 20px;
     margin-left: 30px;
     height: 180px;
     width: 230px;
-    background-color: rgba(200, 246, 200, 0.8);
+    background-color: rgba(229, 246, 229, 0.8);
     border: 2px solid rgb(20, 55, 20);
     padding: 20px;
     border-radius: 5px;
 }
 
 .logo-reserva{
-    background-color: rgba(200, 246, 200, 0.8);
+    background-color: rgba(229, 246, 229, 0.8);
     border: 2px solid rgb(20, 55, 20);
     padding: 20px;
     border-radius: 5px;
