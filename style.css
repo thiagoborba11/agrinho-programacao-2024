@@ -380,6 +380,12 @@ margin-top: 20px;
     display: block;
 }
 
+.grupo-ofertas{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
 
 
 
