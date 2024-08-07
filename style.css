@@ -86,7 +86,8 @@ body {
 .wpp-imagem{
     width: 80px;
     height: auto;
-    margin: 0 auto;
+    margin-top: 90px;
+    margin-right: 35px;
 }
 
 .nossos-produtos-titulo {
