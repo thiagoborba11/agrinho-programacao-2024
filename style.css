@@ -60,6 +60,11 @@ body {
     border-radius: 5px;
 }
 
+.desc-agricultores{
+    font-size: 70px;
+    font-family: "Anton";
+
+}
 .ofertas-texto {
     margin: 0;
     border: 2px solid rgb(20, 55, 20);
