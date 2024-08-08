@@ -390,6 +390,7 @@ margin-top: 20px;
 
 .contato{
     display: block;
+    position: absolute;
     margin-top: -110px;
     margin-left: 5px;
     height: 70px;   
